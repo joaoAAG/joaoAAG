@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm João Guedes , and I'm 24 Yo.
 
-🎓 **Computer Engineer** | 🎮 **Game Developer (at least, i tried) ** | 💻 **Tech Enthusiast**
+🎓 **Computer Engineer** | 🎮 **Game Developer ** | 💻 **Tech Enthusiast**
 
 ---
 
