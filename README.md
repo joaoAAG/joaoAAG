@@ -21,13 +21,6 @@
 
 ---
 
-## 🌱 What I’m Learning  
-
-- 💡 Improving my **AI/ML skills**  
-- 🎨 Exploring advanced **graphics programming**  
-- 📱 Developing mobile applications with Unity  
-
----
 
 ## ✨ Fun Projects  
 
@@ -47,7 +40,7 @@
 
 ## 📫 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourname)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/joaoguedes00/)  
 
 ---
 
