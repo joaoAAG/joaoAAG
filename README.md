@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hello, World! I'm João Guedes , and I'm 24 Yo.
 
-<!--
-**joaoAAG/joaoAAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineer** | 🎮 **Game Developer (at least, i tried) ** | 💻 **Tech Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+
+- 🏠 Based in **Porto, Portugal**  
+- 🎓 Currently finishing my **Master's in Computer Engineering**  
+- 🚀 Passionate about **gaming**, **interactive systems**, and **creative tech solutions**  
+- 🎶 I love combining **music**, **graphics**, and **technology** to create cool projects  
+
+---
+
+## 🛠️ Technologies & Tools  
+
+- **Languages**: Python 🐍 | C++ 💻 | Java ☕ | C# 🎮  
+- **Frameworks & Tools**: Unity 🌍 | OpenCV 📸 | MediaPipe 🤖  
+- **Other Interests**: Machine Learning 🤓 | Gesture Control ✋ | AR/VR 🌌  
+
+---
+
+## 🌱 What I’m Learning  
+
+- 💡 Improving my **AI/ML skills**  
+- 🎨 Exploring advanced **graphics programming**  
+- 📱 Developing mobile applications with Unity  
+
+---
+
+## ✨ Fun Projects  
+
+🎵 **Vinyl Recognition App**  
+- 🎧 Recognizes vinyl album covers and plays tracks from the album  
+- 🖐️ Fully gesture-controlled for an interactive experience  
+
+🏋️‍♂️ **Exercise Tracking App**  
+- 📸 Tracks exercises using **MediaPipe** and **OpenCV**  
+- 🖐️ Gesture-based control for seamless interaction  
+
+🃏 **Card Game with Geolocation**  
+- 🌍 Combines collectible card games with real-world exploration  
+- 📱 Integrated with location-based features  
+
+---
+
+## 📫 Connect with Me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourname)  
+
+---
+
+🌟 _"Code is like humor. When you have to explain it, it’s bad."_  
