@@ -7,7 +7,7 @@
 ## 🌟 About Me  
 
 - 🏠 Based in **Porto, Portugal**  
-- 🎓 Currently finishing my **Master's in Computer Engineering**  
+- 🎓 Currently finishing my **Master's in Computer Engineering**  in **Instituto Superior de Engenharia do Porto**
 - 🚀 Passionate about **gaming**, **interactive systems**, and **creative tech solutions**  
 - 🎶 I love combining **music**, **graphics**, and **technology** to create cool projects  
 
